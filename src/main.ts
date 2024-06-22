@@ -1,5 +1,5 @@
 import "./style.css";
-import "./clean-code/07-tarea";
+import "./solid/02-open-close-a";
 const app = document.querySelector<HTMLDivElement>("#app")!;
 
 app.innerHTML = `
