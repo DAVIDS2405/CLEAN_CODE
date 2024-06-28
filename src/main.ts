@@ -1,5 +1,5 @@
 import "./style.css";
-import "./solid/02-open-close-a";
+import "./solid/05-dependency-a";
 const app = document.querySelector<HTMLDivElement>("#app")!;
 
 app.innerHTML = `
